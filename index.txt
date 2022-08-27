@@ -2,3 +2,8 @@ function init() {
 	console.log("Test");
 	console.log("Test2");
 }
+
+function init()2 {
+	console.log("Test3");
+	console.log("Test4");
+}
