@@ -7,3 +7,8 @@ function init()2 {
 	console.log("Test3");
 	console.log("Test4");
 }
+
+function init()3 {
+	console.log("Test3");
+	console.log("Test4");
+}
