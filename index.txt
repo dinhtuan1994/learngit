@@ -13,12 +13,17 @@ function init3() {
 	console.log("Test4");
 }
 
-function init4() {
+function init()5 {
 	console.log("Test3");
 	console.log("Test4");
 }
 
 function init5() {
+	console.log("Test3");
+	console.log("Test4");
+}
+
+function init6() {
 	console.log("Test3");
 	console.log("Test4");
 }
