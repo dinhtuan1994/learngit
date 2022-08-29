@@ -3,22 +3,27 @@ function init1() {
 	console.log("Test2");
 }
 
-function init()2 {
+function init2() {
 	console.log("Test3");
 	console.log("Test4");
 }
 
-function init()4 {
+function init3() {
 	console.log("Test3");
 	console.log("Test4");
 }
 
-function init()5 {
+function init4() {
 	console.log("Test3");
 	console.log("Test4");
 }
 
-function init()3 {
+function init5() {
+	console.log("Test3");
+	console.log("Test4");
+}
+
+function init6() {
 	console.log("Test3");
 	console.log("Test4");
 }
