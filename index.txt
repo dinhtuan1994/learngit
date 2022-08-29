@@ -1,9 +1,19 @@
-function init() {
+function init1() {
 	console.log("Test");
 	console.log("Test2");
 }
 
 function init()2 {
+	console.log("Test3");
+	console.log("Test4");
+}
+
+function init()4 {
+	console.log("Test3");
+	console.log("Test4");
+}
+
+function init()5 {
 	console.log("Test3");
 	console.log("Test4");
 }
