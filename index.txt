@@ -22,3 +22,8 @@ function init()3 {
 	console.log("Test3");
 	console.log("Test4");
 }
+
+function initx() {
+	console.log("Test3");
+	console.log("Test4");
+}
