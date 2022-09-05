@@ -37,3 +37,7 @@ function init8() {
 	console.log("Test3");
 	console.log("Test4");
 }
+function init9() {
+	console.log("Test3");
+	console.log("Test4");
+}
