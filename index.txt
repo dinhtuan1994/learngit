@@ -27,3 +27,8 @@ function init6() {
 	console.log("Test3");
 	console.log("Test4");
 }
+
+function init7() {
+	console.log("Test3");
+	console.log("Test4");
+}
